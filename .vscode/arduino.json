@@ -1,5 +1,5 @@
 {
-    "sketch": "servo-sensor\\servo-sensor.ino",
+    "sketch": "sensorServo.ino",
     "board": "arduino:avr:uno",
     "port": "COM4"
 }
